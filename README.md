@@ -3,8 +3,10 @@
 
 
 TRON SCAN波场靓号生成器是目前生成速度最快，采用最先进的量子加密生成算法，支持多网页同时离线生成，最安全的离线TRC-20靓号生成系统
-
 https://bochanglianghao.com
+https://tronlianghao.com/
+https://trxlianghao.com/
+https://usdtlianghao.com/
 
 
 波场靓号是指由你自己选择的TRC20地址，展示自己的独特和与众不同的USDT靓号地址
@@ -29,4 +31,6 @@ TRON VANITY波场靓号地址生成器不能也永远不会存储你生成的内
 TRON VANITY波场靓号使用加密安全的伪随机数生成器（CSPRNG）生成波场地址。
 Keystore文件使用AES-128-CTR算法通过BKDF2-SHA256派生函数进行65536次哈希运算得来。
 
+
+![1](https://github.com/user-attachments/assets/abb07260-c04a-48bb-a360-f1e79a94c13b)
 
