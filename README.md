@@ -3,10 +3,13 @@
 
 
 Tcan20波场靓号生成器是目前生成速度最快，采用最先进的量子加密生成算法，支持多网页同时离线生成，最安全的离线TRC-20靓号生成系统
+
 https://bochanglianghao.com
+
 https://tronlianghao.com/
+
 https://trxlianghao.com/
-https://usdtlianghao.com/
+
 
 
 波场靓号是指由你自己选择的TRC20地址，展示自己的独特和与众不同的USDT靓号地址
@@ -88,6 +91,7 @@ https://trc208888.com/
 https://tron88888.com/
 https://tron8888.com/
 https://usdt999999.com/
+
 
 
 
