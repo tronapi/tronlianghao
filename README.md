@@ -62,12 +62,18 @@ imtoken钱包私钥导入教程，波场靓号地址生成
 https://github.com/user-attachments/assets/0d4277dc-b99f-4d16-9196-64052b288750
 
 
+bitget钱包私钥导入教程，波场靓号地址生成
+
 
 https://github.com/user-attachments/assets/1ea3c2e2-2a85-4574-acee-7e528e30df70
 
 
+trunt钱包私钥导入教程，波场靓号地址生成
+
+
 
 https://github.com/user-attachments/assets/7161050c-29e1-4891-9739-3b95df4fa4fb
+
 
 
 
