@@ -1,8 +1,8 @@
-                                             波场靓号地址在线生成
+                                            Tcan20 波场靓号地址在线生成
 
 
 
-TRON SCAN波场靓号生成器是目前生成速度最快，采用最先进的量子加密生成算法，支持多网页同时离线生成，最安全的离线TRC-20靓号生成系统
+Tcan20波场靓号生成器是目前生成速度最快，采用最先进的量子加密生成算法，支持多网页同时离线生成，最安全的离线TRC-20靓号生成系统
 https://bochanglianghao.com
 https://tronlianghao.com/
 https://trxlianghao.com/
@@ -68,7 +68,7 @@ bitget钱包私钥导入教程，波场靓号地址生成
 https://github.com/user-attachments/assets/1ea3c2e2-2a85-4574-acee-7e528e30df70
 
 
-trunt钱包私钥导入教程，波场靓号地址生成
+trust钱包私钥导入教程，波场靓号地址生成
 
 
 
@@ -78,6 +78,16 @@ https://github.com/user-attachments/assets/7161050c-29e1-4891-9739-3b95df4fa4fb
 
 
 
+tron波场靓号生成网址
+https://tcan20.com
+https://tcan20.org
+https://bochanglianghao.com/
+https://tronlianghao.com/
+https://trxlianghao.com/
+https://trc208888.com/
+https://tron88888.com/
+https://tron8888.com/
+https://usdt999999.com/
 
 
 
